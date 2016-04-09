@@ -1,0 +1,35 @@
+_repo: Washington-Square_2870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: Washington Square is a short novel by Henry James. Originally published
+  in 1880 as a serial in Cornhill Magazine and Harper's New Monthly Magazine, it is
+  a structurally simple tragicomedy that recounts the conflict between a dull but
+  sweet daughter and her brilliant, domineering father. The plot of the novel is based
+  upon a true story told to James by his close friend, British actress Fanny Kemble.
+  The book is often compared to Jane Austen's work for the clarity and grace of its
+  prose and its intense focus on family relationships ...
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Washington Square (New York, N.Y.) -- Fiction'
+- GITenberg
+title: Washington Square
+url: http://www.gutenberg.org/ebooks/2870
